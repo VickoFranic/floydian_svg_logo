@@ -1,0 +1,97 @@
+
+#layer1-3 {
+    display: none;
+}
+
+@media screen and (min-width : 0px) and (max-width : 768px) {
+    
+    body {
+        display: block;
+        background-color: #99FFCC;
+    }
+
+    #svg_wrapper {
+        width: 100%;
+        margin-left: auto;
+        margin-right: auto;
+        margin-top: -70px;
+    }
+
+    .primary, .secondary {
+        fill: #000000;
+        fill-opacity: 1;
+        stroke: #000000;
+    }
+
+    .jumbotron {
+        display: none;
+    }
+}
+
+@media all and (min-width: 769px) {
+
+
+    body {
+    background-color: #F3F3ED;
+}
+    
+    .jumbotron {
+        display: none;
+        margin-top: 50px;
+    }
+
+    #svg_wrapper {
+
+        display: none;
+        width: 55%;
+        margin-top: -120px;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+   #text4144 {
+    width: 100%!important;
+}
+
+.primary, .secondary {
+	stroke-dasharray: 500;
+	stroke-dashoffset: 500;
+    stroke: #48c2ae;
+	animation: draw 10s linear forwards;
+	-webkit-animation: draw 10s linear forwards;
+	-moz-animation: draw 10s linear forwards;
+	-o-animation: draw 10s linear forwards;
+}
+
+
+@keyframes draw {
+    to {
+        stroke-dashoffset: 0;
+        fill: #000000;
+        fill-opacity: 1;
+        stroke: #000000;
+    }
+}
+@-webkit-keyframes draw {
+    to {
+        stroke-dashoffset: 0;
+        fill: #000000;
+        fill-opacity: 1;
+    }
+}
+
+@-moz-keyframes draw {
+    to {
+        stroke-dashoffset: 0;
+        fill: #000000;
+        fill-opacity: 1;
+    }
+}
+@-o-keyframes draw {
+    to {
+        stroke-dashoffset: 0;
+        fill: #000000;
+        fill-opacity: 1;            
+    }
+}
+}
