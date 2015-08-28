@@ -4,4 +4,4 @@ Testing logo animations for Floydian Split (Pink Floyd tribute band)
 - JQuery
 - CSS animations
 
-<img src="src/floydian.svg" alt="Floydian Split logo">
+<a href="http://vfdesign.org/SVG/" target="_blank">Try me !</a>
