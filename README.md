@@ -1,4 +1,5 @@
 Testing logo animations for Floydian Split (Pink Floyd tribute band)
+<a href="http://floydian.vfdesign.org" target="_blank">FloydianSplit website</a>
 
 - SVG
 - JQuery
