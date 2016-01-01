@@ -14,4 +14,4 @@ Testing logo animations for Floydian Split (Pink Floyd tribute band)
 
 - - -
 
-> Database schema is stored in */db/alert_system_db_schema.sql*
+==Database schema is stored in */db/alert_system_db_schema.sql==
