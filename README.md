@@ -10,7 +10,7 @@ Testing logo animations for Floydian Split (Pink Floyd tribute band)
 
 # Alert System
 
-==*Alert System catches various errors and sends different types of notifications - alerts (email, Slack, Hipchat, SMS, calls)*==
+*Alert System catches various errors and sends different types of notifications - alerts (email, Slack, Hipchat, SMS, calls)*
 
 - - -
 
